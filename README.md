@@ -1,26 +1,95 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello.%20I'm%20Younggwan.&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 데이터의 정합성을 통제하고 AI를 안정적으로 연결하는 백엔드 개발자 손영관입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 데이터 정합성을 확보하고, AI 기술을 효율적으로 시스템에 연결하는 데 집중합니다.<br>사용자의 요구를 기술적으로 풀어내기 위해 성장하고 있습니다. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          </div>
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
-    </div>
-    
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello.%20I'm%20Younggwan.&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+</div>
+<div align="center">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">데이터의 정합성을 통제하고 AI를 안정적으로 연결하는 백엔드 개발자 손영관입니다.</h2>
+<p style="font-size: 15px; color: #282d33; line-height: 1.6;">
+데이터 정합성을 확보하고, AI 기술을 효율적으로 시스템에 연결하는 데 집중합니다.
+<br>
+사용자의 요구를 기술적으로 풀어내기 위해 성장하고 있습니다.
+</p>
+</div>
+
+<br>
+
+<div align="center">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2>
+<br>
+<table style="margin: 0 auto; border-collapse: collapse; text-align: center;">
+<tr>
+<td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Language / Database</td>
+<td style="padding: 12px; border: 1px solid #d8dee4;">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
+</td>
+</tr>
+<tr>
+<td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Framework / ORM</td>
+<td style="padding: 12px; border: 1px solid #d8dee4;">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&white">
+</td>
+</tr>
+<tr>
+<td style="padding: 12px; border: 1px solid #d8dee4; background-color: #f6f8fa; color: #57606a; font-size: 14px;">Collaboration / Tools</td>
+<td style="padding: 12px; border: 1px solid #d8dee4;">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+</td>
+</tr>
+</table>
+<br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact</h2>
+<strong>● goodygs3927@naver.com</strong>
+<h2 style="border-bottom: 1px solid #d8dee4; color: transparent; height: 1px; margin: 25px 0;"></h2>
+<br>
+</div>
+
+<br>
+
+<div align="center">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Projects</h2>
+</div>
+
+### 1. 유망주(酒) 프로젝트
+> 전통주 AI 챗봇 & 시뮬레이션 플랫폼
+
+- **진행 기간**: 2026.04 ~ 2026.05
+- **팀 구성**: 6명 (프론트엔드 2명, 백엔드 1명, AI/Data 2명, 인프라 1명)
+- **프로젝트 개요**: 고문헌 레시피 자연어 검색 AI 챗봇 서비스와 사용자의 실제 양조환경을 계산하여 AI 명인의 피드백을 제공하는 발효 시뮬레이션 기반의 전통주 큐레이션 플랫폼
+- **담당 역할**: Backend (Spring Boot 기반 API 서버 개발, MySQL-MongoDB 하이브리드 설계 및 통신 파이프라인 구축)
+- **주요 성과**:
+  - 단일 트랜잭션 묶음으로 인한 사용자 데이터 유실 상황을 방지하기 위해, 트랜잭션 경계를 분리하고 외부 통신 구간 예외 격리 방어 로직을 구축하여 메인 DB 정합성 확보
+  - 마스터 데이터 변경 시 유저의 과거 기록이 변형되는 문제를 막기 위해 문자열 추출 기반의 스냅샷 패턴을 적용하여 과거 데이터의 완전한 불변성 보장
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: transparent; height: 1px; margin: 30px 0;"></h2>
+
+### 2. Synapse
+> 지식 관계망 기반 클러스터링 플랫폼
+
+- **진행 기간**: 2026.02 ~ 2026.03
+- **팀 구성**: 6명 (프론트엔드 1명, 백엔드 3명, AI/Data 1명, 인프라 1명)
+- **프로젝트 개요**: 파편화된 메모의 AI 자동 연결을 지원하고, 카프카 비동기 파이프라인으로 분리하여 지식 관계망 기반의 인사이트를 도출하는 노트 플랫폼
+- **담당 역할**: Backend (Spring Boot 기반 핵심 API 서버 개발 및 Kafka 비동기 파이프라인 구축)
+- **주요 성과**:
+  - 무거운 AI 임베딩 연산을 카프카 기반 비동기 큐로 분리하여 백그라운드 처리하도록 개편함으로써 저장 API 응답 속도 최적화 및 서버 장애 격리
+  - 다중 파티션 분산 적재 시 이벤트 처리 순서가 역전되는 것을 막기 위해, 고유 식별자 기반의 라우팅 키를 재설계하여 파티션 내 데이터 순서 및 무결성 보장
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: transparent; height: 1px; margin: 30px 0;"></h2>
+
+### 3. 약품고 (Yakpumgo)
+> 의약품 임베디드 관리 시스템
+
+- **진행 기간**: 2026.01 ~ 2026.02
+- **팀 구성**: 5명 (프론트엔드 1명, 백엔드 2명, AI 1명, 임베디드 1명)
+- **프로젝트 개요**: 병원 내 마약류 및 고위험 약품의 재고와 유통기한 관리를 자동화하여 투약 오류 방지 및 투명한 약품 관리를 실현하는 임베디드 기반 시스템
+- **담당 역할**: Frontend UI/UX 설계 및 시스템 아키텍처 장애 복구 지원
+- **주요 성과**:
+  - 하드웨어 규격(GS1-128 바코드)과 기존 DB 스키마 간의 데이터 미스매치를 해결하기 위해 프론트 정규식 전처리 및 백엔드 직접 검색 API를 구축하여 실시간 재고 파악 시스템 구현
+  - 배포 직후 발생한 연쇄적 백엔드 마비 사태(구문 오류 및 대량 접속 타임아웃)를 로그 분석으로 진단하고 커넥션 풀을 트랭픽에 맞춰 튜닝하여 인프라를 안정화시킴
