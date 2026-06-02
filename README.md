@@ -92,3 +92,9 @@
 - **주요 성과**:
   - 하드웨어 규격(GS1-128 바코드)과 기존 DB 스키마 간의 데이터 미스매치를 해결하기 위해 프론트 정규식 전처리 및 백엔드 직접 검색 API를 구축하여 실시간 재고 파악 시스템 구현
   - 연쇄적 백엔드 마비 사태(구문 오류 및 대량 접속 타임아웃)를 로그 분석으로 진단하고 커넥션 풀을 트랭픽에 맞춰 튜닝하여 인프라 안정화
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</div>
