@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello.%20I'm%20Younggwan.&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-</div>
+
 
 <div align="center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">데이터의 정합성을 통제하고 AI를 안정적으로 연결하는 백엔드 개발자 손영관입니다.</h2>
@@ -51,29 +49,56 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💡 Technical Capabilities</h2>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### Java
-- 예외 처리: 전역 예외 처리 규격을 정규화하여 클라이언트의 일관된 예외 대응 지원
-- 코어 비즈니스 로직 구현: 도메인 규칙을 수치화한 룰베이스 기반의 핵심 로직 구현
+- **예외 처리**: 전역 예외 처리 규격을 정규화하여 클라이언트의 일관된 예외 대응 지원
+- **코어 비즈니스 로직 구현**: 도메인 규칙을 수치화한 룰베이스 기반의 핵심 로직 구현
 
-### Spring Boot
-- REST API 구축: 계층형 아키텍처 기반의 확장성 및 유지보수성 높은 API 서버 구축
-- 트랜잭션 관리: 외부 통신 구간 트랜잭션 분리로 DB 데드락 방지 및 장애 격리
-
-### MySQL
-- 데이터 모델링: 스냅샷 패턴을 적용하여 데이터 불변성 및 무결성을 보장하는 스키마 설계
-- 쿼리 최적화: 다중 식별자 조회 및 애플리케이션 레벨 조인으로 I/O 병목 및 연산 최소화
+</td>
+<td width="50%" valign="top">
 
 ### Apache Kafka
-- 이벤트 주도 아키텍처(EDA) 설계: 메시지 큐 비동기 처리를 통해 응답 블로킹 방지 및 처리량 극대화
-- 분산 환경 데이터 무결성 보장: 식별자 기반 파티션 라우팅으로 분산 환경 내 메시지 순서 및 상태 일관성 확보
+- **이벤트 주도 아키텍처(EDA) 설계**: 메시지 큐 비동기 처리를 통해 응답 블로킹 방지 및 처리량 극대화
+- **분산 환경 데이터 무결성 보장**: 식별자 기반 파티션 라우팅으로 분산 환경 내 메시지 순서 및 상태 일관성 확보
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Spring Boot
+- **REST API 구축**: 계층형 아키텍처 기반의 확장성 및 유지보수성 높은 API 서버 구축
+- **트랜잭션 관리**: 외부 통신 구간 트랜잭션 분리로 DB 데드락 방지 및 장애 격리
+
+</td>
+<td width="50%" valign="top">
 
 ### AI Agent & LLM
-- 룰베이스 & AI 하이브리드 검증: 백엔드 연산 결과 프롬프트 주입을 통한 환각 현상 제어 아키텍처 구현
-- AI 모델 사용: 의도 사전 검증 라우팅 구축 및 TTS 연동으로 서비스 품질 고도화
+- **룰베이스 & AI 하이브리드 검증**: 백엔드 연산 결과 프롬프트 주입을 통한 환각 현상 제어 아키텍처 구현
+- **AI 모델 사용**: 의도 사전 검증 라우팅 구축 및 TTS 연동으로 서비스 품질 고도화
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### MySQL
+- **데이터 모델링**: 스냅샷 패턴을 적용하여 데이터 불변성 및 무결성을 보장하는 스키마 설계
+- **쿼리 최적화**: 다중 식별자 조회 및 애플리케이션 레벨 조인으로 I/O 병목 및 연산 최소화
+
+</td>
+<td width="50%" valign="top">
 
 ### JavaScript
-- 클라이언트-서버 통신 지원: 서버 에러 시 UI 붕괴를 방지하는 우회(Fallback) 응답 규격 설계
-- 비동기 처리 최적화: 커서 기반 페이징(Cursor-based Pagination) 적용으로 매끄러운 대량 데이터 로드 구현
+- **클라이언트-서버 통신 지원**: 서버 에러 시 UI 붕괴를 방지하는 우회(Fallback) 응답 규격 설계
+- **비동기 처리 최적화**: 커서 기반 페이징(Cursor-based Pagination) 적용으로 매끄러운 대량 데이터 로드 구현
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
